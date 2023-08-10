@@ -1,3 +1,3 @@
 # This is my Personal Website!!!
 
-## It has things on it
+## It has cool stuff. There's not much else to say.
